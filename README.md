@@ -130,6 +130,7 @@ jupyter notebook Titanic_DeepLearning_Complete.ipynb
 ## 👨‍💻 Author
 
 **Reyan Afzal**
+App link: https://af3a33ae8e04a70694.gradio.live/
 Deep Learning Course Project
 *Upgraded from ML → Deep Learning*
 
